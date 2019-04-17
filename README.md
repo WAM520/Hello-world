@@ -1,2 +1,3 @@
 # Hello-world
-I'm an alien
+我是外星人
+我是一个自学者
